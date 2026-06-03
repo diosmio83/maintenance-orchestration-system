@@ -1,0 +1,15 @@
+# Power Automate / Microsoft
+*.zip
+*.msapp
+
+# Connection secrets
+connectionsMap.json
+apisMap.json
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+*.code-workspace
